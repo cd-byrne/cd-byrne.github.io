@@ -25,7 +25,7 @@ import HelloWorld from './components/HelloWorld.vue';
 			/>
 		</a>
 	</div>
-	<HelloWorld msg="My Test" />
+	<HelloWorld msg="Another Test" />
 </template>
 
 <style scoped>
